@@ -1,0 +1,3 @@
+Added Component: Designator=I1(IMU)
+Added Pin To Net: NetName=3.3V Pin=I1-1
+Added Pin To Net: NetName=GND Pin=I1-2

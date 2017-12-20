@@ -1,0 +1,6 @@
+Added Component: Designator=C23(DIPCap)
+Added Component: Designator=C28(DIPCap)
+Added Pin To Net: NetName=POWER Pin=C23-+
+Added Pin To Net: NetName=AGND Pin=C23--
+Added Pin To Net: NetName=POWER Pin=C28-+
+Added Pin To Net: NetName=AGND Pin=C28--

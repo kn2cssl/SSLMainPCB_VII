@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD1_3 Pin=D1-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-2
+Removed Pin From Net: NetName=NetR9_2 Pin=R9-2
+Removed Pin From Net: NetName=NetR10_2 Pin=R10-2
+Removed Pin From Net: NetName=NetR29_2 Pin=R29-2
+Removed Pin From Net: NetName=NetR10_2 Pin=S2-1
+Removed Pin From Net: NetName=NetR8_2 Pin=S2-3
+Removed Pin From Net: NetName=NetR9_2 Pin=S2-4
+Removed Pin From Net: NetName=NetR7_2 Pin=S2-6
+Removed Pin From Net: NetName=NetU1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U1-2
+Removed Pin From Net: NetName=NetU1_3 Pin=U1-3
+Removed Pin From Net: NetName=NetU1_4 Pin=U1-4
+Removed Pin From Net: NetName=NetU1_5 Pin=U1-5
+Removed Pin From Net: NetName=NetU1_23 Pin=U1-23
+Removed Pin From Net: NetName=NetU1_24 Pin=U1-24
+Removed Pin From Net: NetName=NetU1_29 Pin=U1-29
+Removed Pin From Net: NetName=NetU1_52 Pin=U1-52
+Removed Pin From Net: NetName=NetU1_53 Pin=U1-53
+Removed Pin From Net: NetName=NetU1_54 Pin=U1-54
+Removed Pin From Net: NetName=NetU1_63 Pin=U1-63
+Removed Pin From Net: NetName=NetU1_64 Pin=U1-64
+Removed Pin From Net: NetName=NetU1_66 Pin=U1-66
+Removed Pin From Net: NetName=NetU1_67 Pin=U1-67
+Removed Pin From Net: NetName=NetU1_70 Pin=U1-70
+Added Component: Designator=P3(HDR1X6)
+Added Pin To Net: NetName=NetU1_54 Pin=D1-1
+Added Pin To Net: NetName=NetU1_63 Pin=D1-3
+Added Pin To Net: NetName=NetU1_23 Pin=I1-3
+Added Pin To Net: NetName=NetU1_5 Pin=I1-4
+Added Pin To Net: NetName=NetU1_4 Pin=MD1-4
+Added Pin To Net: NetName=NetU1_3 Pin=MD1-5
+Added Pin To Net: NetName=NetU1_2 Pin=MD2-4
+Added Pin To Net: NetName=NetU1_1 Pin=MD2-5
+Added Pin To Net: NetName=NetR29_2 Pin=MD3-4
+Added Pin To Net: NetName=NetR10_2 Pin=MD3-5
+Added Pin To Net: NetName=NetR9_2 Pin=MD4-4
+Added Pin To Net: NetName=NetR8_2 Pin=MD4-5
+Added Pin To Net: NetName=NetD1_3 Pin=MD5-4
+Added Pin To Net: NetName=NetD1_1 Pin=MD5-5
+Added Pin To Net: NetName=NetU1_64 Pin=P2-3
+Added Pin To Net: NetName=NetU1_66 Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=P3-2
+Added Pin To Net: NetName=RX Pin=P3-3
+Added Pin To Net: NetName=3.3V Pin=P3-4
+Added Pin To Net: NetName=POWER Pin=P3-5
+Added Pin To Net: NetName=SGND Pin=P3-6
+Added Pin To Net: NetName=NetU1_67 Pin=Q1-2
+Added Pin To Net: NetName=NetU1_24 Pin=R7-2
+Added Pin To Net: NetName=NetU1_29 Pin=R8-2
+Added Pin To Net: NetName=NetU1_52 Pin=R9-2
+Added Pin To Net: NetName=NetU1_53 Pin=R10-2
+Added Pin To Net: NetName=NetR7_2 Pin=R11-1
+Added Pin To Net: NetName=NetU1_5 Pin=R26-1
+Added Pin To Net: NetName=NetU1_23 Pin=R27-1
+Added Pin To Net: NetName=NetU1_70 Pin=R29-2
+Added Pin To Net: NetName=NetU1_64 Pin=R31-1
+Added Pin To Net: NetName=NetU1_66 Pin=R32-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R36-1
+Added Pin To Net: NetName=NetU1_3 Pin=R39-1
+Added Pin To Net: NetName=NetU1_4 Pin=R40-1
+Added Pin To Net: NetName=NetU1_1 Pin=R42-1
+Added Pin To Net: NetName=NetU1_2 Pin=R43-1
+Added Pin To Net: NetName=NetR10_2 Pin=R45-1
+Added Pin To Net: NetName=NetR29_2 Pin=R46-1
+Added Pin To Net: NetName=NetR8_2 Pin=R48-1
+Added Pin To Net: NetName=NetR9_2 Pin=R49-1
+Added Pin To Net: NetName=NetD1_1 Pin=R58-1
+Added Pin To Net: NetName=NetD1_3 Pin=R59-1
+Added Pin To Net: NetName=NetU1_53 Pin=S2-1
+Added Pin To Net: NetName=NetU1_29 Pin=S2-3
+Added Pin To Net: NetName=NetU1_52 Pin=S2-4
+Added Pin To Net: NetName=NetU1_24 Pin=S2-6
+Added Pin To Net: NetName=NetU1_53 Pin=U1-1
+Added Pin To Net: NetName=NetU1_52 Pin=U1-2
+Added Pin To Net: NetName=NetU1_29 Pin=U1-3
+Added Pin To Net: NetName=NetU1_24 Pin=U1-4
+Added Pin To Net: NetName=NetU1_67 Pin=U1-5
+Added Pin To Net: NetName=NetU1_1 Pin=U1-23
+Added Pin To Net: NetName=NetU1_2 Pin=U1-24
+Added Pin To Net: NetName=NetU1_70 Pin=U1-29
+Added Pin To Net: NetName=NetR7_2 Pin=U1-52
+Added Pin To Net: NetName=MISO Pin=U1-53
+Added Pin To Net: NetName=MOSI Pin=U1-54
+Added Pin To Net: NetName=NetR10_2 Pin=U1-63
+Added Pin To Net: NetName=NetR29_2 Pin=U1-64
+Added Pin To Net: NetName=NetU1_64 Pin=U1-66
+Added Pin To Net: NetName=NetU1_66 Pin=U1-67
+Added Pin To Net: NetName=NetU1_63 Pin=U1-70
+Added Pin To Net: NetName=NetU1_54 Pin=U1-71
+Added Pin To Net: NetName=NetR8_2 Pin=U1-78
+Added Pin To Net: NetName=NetR9_2 Pin=U1-79
+Added Pin To Net: NetName=RX Pin=U1-80
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-83
+Added Pin To Net: NetName=NetD1_1 Pin=U1-86
+Added Pin To Net: NetName=NetD1_3 Pin=U1-87
+Added Pin To Net: NetName=NetU1_3 Pin=U1-92
+Added Pin To Net: NetName=NetU1_4 Pin=U1-93
+Added Pin To Net: NetName=NetU1_23 Pin=U1-95
+Added Pin To Net: NetName=NetU1_5 Pin=U1-96
+Added Pin To Net: NetName=NetR7_2 Pin=U2-5
+Change Net Name : Old Net Name=NetD1_1 New Net Name=RX
+Change Net Name : Old Net Name=NetD1_3 New Net Name=SPINNRX
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=SHOOTRX
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NRFSCK
+Change Net Name : Old Net Name=NetR8_2 New Net Name=MOTOR4TX
+Change Net Name : Old Net Name=NetR9_2 New Net Name=MOTOR4RX
+Change Net Name : Old Net Name=NetR10_2 New Net Name=MOTOR3TX
+Change Net Name : Old Net Name=NetR29_2 New Net Name=MOTOR3RX
+Change Net Name : Old Net Name=NetU1_1 New Net Name=MOTOR2TX
+Change Net Name : Old Net Name=NetU1_2 New Net Name=MOTOR2RX
+Change Net Name : Old Net Name=NetU1_3 New Net Name=MOTOR1TX
+Change Net Name : Old Net Name=NetU1_4 New Net Name=MOTOR1RX
+Change Net Name : Old Net Name=NetU1_5 New Net Name=IMUSDA
+Change Net Name : Old Net Name=NetU1_23 New Net Name=IMUSCL
+Change Net Name : Old Net Name=NetU1_24 New Net Name=HEX3
+Change Net Name : Old Net Name=NetU1_29 New Net Name=HEX2
+Change Net Name : Old Net Name=NetU1_52 New Net Name=HEX1
+Change Net Name : Old Net Name=NetU1_53 New Net Name=HEX0
+Change Net Name : Old Net Name=NetU1_54 New Net Name=DP
+Change Net Name : Old Net Name=NetU1_63 New Net Name=DM
+Change Net Name : Old Net Name=NetU1_64 New Net Name=DEBUGSDA
+Change Net Name : Old Net Name=NetU1_66 New Net Name=DEBUGSCL
+Change Net Name : Old Net Name=NetU1_67 New Net Name=BUZZER
+Change Net Name : Old Net Name=NetU1_70 New Net Name=BUTTON

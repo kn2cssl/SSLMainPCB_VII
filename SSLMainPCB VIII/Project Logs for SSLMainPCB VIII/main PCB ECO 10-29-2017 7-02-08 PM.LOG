@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetR15_1 Pin=R15-1
+Removed Pin From Net: NetName=NetR16_1 Pin=R16-1
+Removed Pin From Net: NetName=NetR19_1 Pin=R19-1
+Removed Pin From Net: NetName=NetR24_1 Pin=R24-1
+Removed Pin From Net: NetName=NetR25_1 Pin=R25-1
+Removed Pin From Net: NetName=NetR28_1 Pin=R28-1
+Removed Pin From Net: NetName=NetR33_1 Pin=R33-1
+Removed Pin From Net: NetName=NetR34_1 Pin=R34-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R37-1
+Removed Pin From Net: NetName=NetR38_1 Pin=R38-1
+Removed Pin From Net: NetName=NetR44_1 Pin=R44-1
+Removed Pin From Net: NetName=NetR47_1 Pin=R47-1
+Removed Pin From Net: NetName=NetR50_1 Pin=R50-1
+Removed Pin From Net: NetName=NetR52_1 Pin=R52-1
+Removed Pin From Net: NetName=NetR60_1 Pin=R60-1
+Removed Pin From Net: NetName=NetU1_30 Pin=U1-30
+Removed Pin From Net: NetName=NetU1_48 Pin=U1-48
+Removed Pin From Net: NetName=NetU1_51 Pin=U1-51
+Removed Pin From Net: NetName=NetU1_55 Pin=U1-55
+Removed Pin From Net: NetName=NetU1_58 Pin=U1-58
+Added Pin To Net: NetName=NetR52_1 Pin=I1-5
+Added Pin To Net: NetName=NetR47_1 Pin=I1-6
+Added Pin To Net: NetName=NetR60_1 Pin=I1-7
+Added Pin To Net: NetName=NetU1_51 Pin=R15-1
+Added Pin To Net: NetName=NetU1_55 Pin=R16-1
+Added Pin To Net: NetName=NetR24_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R24-1
+Added Pin To Net: NetName=NetR16_1 Pin=R25-1
+Added Pin To Net: NetName=NetR50_1 Pin=R28-1
+Added Pin To Net: NetName=NetU1_48 Pin=R33-1
+Added Pin To Net: NetName=NetU1_30 Pin=R34-1
+Added Pin To Net: NetName=NetR25_1 Pin=R37-1
+Added Pin To Net: NetName=NetR28_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=R44-1
+Added Pin To Net: NetName=NetR37_1 Pin=R47-1
+Added Pin To Net: NetName=NetR34_1 Pin=R50-1
+Added Pin To Net: NetName=NetR15_1 Pin=R52-1
+Added Pin To Net: NetName=NetR33_1 Pin=R60-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-30
+Added Pin To Net: NetName=NetU1_58 Pin=U1-48
+Added Pin To Net: NetName=CSN Pin=U1-51
+Added Pin To Net: NetName=NetR44_1 Pin=U1-55
+Added Pin To Net: NetName=NetR37_1 Pin=U1-58
+Added Pin To Net: NetName=NetR24_1 Pin=U1-59
+Added Pin To Net: NetName=NetR34_1 Pin=U1-60
+Added Pin To Net: NetName=NetR50_1 Pin=U1-61
+Added Pin To Net: NetName=NetR19_1 Pin=U1-62
+Added Pin To Net: NetName=NetR16_1 Pin=U1-65
+Added Pin To Net: NetName=NetR60_1 Pin=U1-68
+Added Pin To Net: NetName=NetR47_1 Pin=U1-69
+Added Pin To Net: NetName=NetR52_1 Pin=U1-77
+Added Pin To Net: NetName=NetR33_1 Pin=U1-81
+Added Pin To Net: NetName=NetU1_30 Pin=U1-82
+Added Pin To Net: NetName=NetU1_48 Pin=U1-84
+Added Pin To Net: NetName=NetU1_51 Pin=U1-85
+Added Pin To Net: NetName=NetU1_55 Pin=U1-88
+Added Pin To Net: NetName=NetR25_1 Pin=U1-90
+Added Pin To Net: NetName=NetR28_1 Pin=U1-91
+Added Pin To Net: NetName=NetR41_1 Pin=U1-97
+Added Pin To Net: NetName=NetR38_1 Pin=U1-98
+Added Pin To Net: NetName=NetU1_58 Pin=U2-3
+Added Pin To Net: NetName=NetR44_1 Pin=U2-8
+Change Net Name : Old Net Name=NetR15_1 New Net Name=VOLTAGE
+Change Net Name : Old Net Name=NetR16_1 New Net Name=USBTRANSMIT
+Change Net Name : Old Net Name=NetR19_1 New Net Name=USBRECEIVE
+Change Net Name : Old Net Name=NetR24_1 New Net Name=USBENABLE
+Change Net Name : Old Net Name=NetR25_1 New Net Name=SHOOTOK
+Change Net Name : Old Net Name=NetR28_1 New Net Name=SHOOTISCHARGED
+Change Net Name : Old Net Name=NetR33_1 New Net Name=MDSPINN
+Change Net Name : Old Net Name=NetR34_1 New Net Name=MD4
+Change Net Name : Old Net Name=NetR37_1 New Net Name=MD3
+Change Net Name : Old Net Name=NetR38_1 New Net Name=MD2
+Change Net Name : Old Net Name=NetR41_1 New Net Name=MD1
+Change Net Name : Old Net Name=NetR44_1 New Net Name=IRQ
+Change Net Name : Old Net Name=NetR47_1 New Net Name=INTA
+Change Net Name : Old Net Name=NetR50_1 New Net Name=IMUOK
+Change Net Name : Old Net Name=NetR52_1 New Net Name=FSYNC
+Change Net Name : Old Net Name=NetR60_1 New Net Name=DRDY
+Change Net Name : Old Net Name=NetU1_30 New Net Name=DEBUGTRANSMIT
+Change Net Name : Old Net Name=NetU1_48 New Net Name=DEBUGRECEIVE
+Change Net Name : Old Net Name=NetU1_51 New Net Name=DATACORRECT
+Change Net Name : Old Net Name=NetU1_55 New Net Name=DATAARRIVED
+Change Net Name : Old Net Name=NetU1_58 New Net Name=CE

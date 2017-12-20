@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=HEX0 Pin=U1-1
+Removed Pin From Net: NetName=HEX1 Pin=U1-2
+Removed Pin From Net: NetName=HEX3 Pin=U1-4
+Added Pin To Net: NetName=HEX1 Pin=U1-1
+Added Pin To Net: NetName=HEX3 Pin=U1-2
+Added Pin To Net: NetName=HEX0 Pin=U1-4

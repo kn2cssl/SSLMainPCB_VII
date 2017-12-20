@@ -1,0 +1,30 @@
+Added Component: Designator=MD1(MotorDriver)
+Added Component: Designator=MD2(MotorDriver)
+Added Component: Designator=MD3(MotorDriver)
+Added Component: Designator=MD4(MotorDriver)
+Added Component: Designator=MD5(MotorDriver)
+Added Pin To Net: NetName=POWER Pin=MD1-0
+Added Pin To Net: NetName=M1GND Pin=MD1-1
+Added Pin To Net: NetName=5V Pin=MD1-2
+Added Pin To Net: NetName=3.3V Pin=MD1-3
+Added Pin To Net: NetName=GND Pin=MD1-6
+Added Pin To Net: NetName=POWER Pin=MD2-0
+Added Pin To Net: NetName=M2GND Pin=MD2-1
+Added Pin To Net: NetName=5V Pin=MD2-2
+Added Pin To Net: NetName=3.3V Pin=MD2-3
+Added Pin To Net: NetName=GND Pin=MD2-6
+Added Pin To Net: NetName=POWER Pin=MD3-0
+Added Pin To Net: NetName=M3GND Pin=MD3-1
+Added Pin To Net: NetName=5V Pin=MD3-2
+Added Pin To Net: NetName=3.3V Pin=MD3-3
+Added Pin To Net: NetName=GND Pin=MD3-6
+Added Pin To Net: NetName=POWER Pin=MD4-0
+Added Pin To Net: NetName=M4GND Pin=MD4-1
+Added Pin To Net: NetName=5V Pin=MD4-2
+Added Pin To Net: NetName=3.3V Pin=MD4-3
+Added Pin To Net: NetName=GND Pin=MD4-6
+Added Pin To Net: NetName=POWER Pin=MD5-0
+Added Pin To Net: NetName=MSGND Pin=MD5-1
+Added Pin To Net: NetName=5V Pin=MD5-2
+Added Pin To Net: NetName=3.3V Pin=MD5-3
+Added Pin To Net: NetName=GND Pin=MD5-6
